@@ -1,5 +1,7 @@
 # Pipeline Jenkins Node.js
 
+![Demo da aplicação](demo.jpg)
+
 Projeto Node.js utilizado para demonstrar um pipeline de CI/CD com Jenkins.
 
 ## Requisitos
